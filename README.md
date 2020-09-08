@@ -1,5 +1,5 @@
 # All Chores (ROUGH DRAFT)
-Will eventually turn this into a website or something. These generally not daily chores (like running the dishwasher)
+Will eventually turn this into a website or something. These generally not daily chores (like running the dishwasher). I'd like to add how often to do them and make it sortable. 
 
 ## Safety
 - Check CO2 detector
