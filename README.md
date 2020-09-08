@@ -8,6 +8,9 @@ Will eventually turn this into a website or something. These generally not daily
 - Change CO2 batteries
 - Inspect all fire ladders/escapes
 
+## Seasonal
+- Clean/put away all seasonal items (holiday related, warm blankets, etc.)
+
 ## All rooms
 - Vacuum curtains
 - Launder curtains (depends on material)
@@ -62,6 +65,10 @@ Will eventually turn this into a website or something. These generally not daily
 - Clean litter mat
 - Clean toys
 - Clean bedding
+
+## Yard
+(IDK I don't have one but feel free to make a suggestion)
+- Put away patio furniture for the winter
 
 ## Thing specific
 
