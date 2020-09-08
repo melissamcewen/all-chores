@@ -104,20 +104,20 @@ Will eventually turn this into a website or something. These generally not daily
 - Clean underneath
 
 ### Dishwasher
-- clean filter (see manual, not all have accessible filters)
-- deep clean inside
+- Clean filter (see manual, not all have accessible filters)
+- Deep clean inside and check for common issues (clogged sprayer, deteriorating gaskets, etc.)
 
 ### Washer
-- clean filter (see manual, usually only front loading)
-- sanitizing wash (with bleach)
+- Clean filter (see manual, usually only front loading)
+- Sanitizing wash (with bleach)
 
 ### Dryer
-- clean out filter
-- completely clean out duct
+- Clean out filter
+- Completely clean out duct
 
 ### Standalone air cleaner/filter
-- clean filter
-- replace filter
+- Clean filter
+- Replace filter
 
 ### All appliances that use water (coffee makers, humidifiers, cat water fountain etc.)
 - Descale (if you have hard water)
