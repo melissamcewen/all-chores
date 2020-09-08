@@ -95,6 +95,7 @@ Will eventually turn this into a website or something. These generally not daily
 ### Hot Water Heater
 - Inspection
 - Flush (depends on local water supply consult with a professional)
+- If you have whole house water softener or other similar device see manual
 
 ### Refrigerator
 - Take everything out and do a deep clean
