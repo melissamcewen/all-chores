@@ -22,6 +22,7 @@ Will eventually turn this into a website or something. These generally not daily
 - Vacuum/clean upholstery/mattresses (depends on materials)
 - Oil any cast iron fixtures (some stove grates for example) 
 - Clean any electronics (see manuals)
+- Clean windows
 
 ### Dusting
 - Books
