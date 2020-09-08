@@ -110,6 +110,7 @@ Will eventually turn this into a website or something. These generally not daily
 - Deep clean with defrost
 - Clean coils (see manual some are "self cleaning)
 - Clean underneath
+- Change water and odor filters (only some models, see manual)
 
 ### Dishwasher
 - Clean filter (see manual, not all have accessible filters)
