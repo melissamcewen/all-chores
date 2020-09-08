@@ -26,6 +26,7 @@ Will eventually turn this into a website or something. These generally not daily
 - Oil any cast iron fixtures (some stove grates for example) 
 - Clean any electronics (see manuals)
 - Clean windows
+- Clean/sanitize drains (make sure there are no hidden filters or anything weird)
 
 ### Dusting
 - Books
