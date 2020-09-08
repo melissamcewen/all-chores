@@ -19,7 +19,7 @@ Will eventually turn this into a website or something. These generally not daily
 - Vacuum floor
 - Vacuum behind furniture
 - Wash walls
-- Descale fixtures (shower heads, taps, etc.) if you have hard water
+- Clean fixtures (shower heads, faucer aerater, etc.)
 - Clean/shine fixtures
 - Clean mirrors
 - Vacuum/clean upholstery/mattresses (depends on materials)
@@ -27,6 +27,7 @@ Will eventually turn this into a website or something. These generally not daily
 - Clean any electronics (see manuals)
 - Clean windows
 - Clean/sanitize drains (make sure there are no hidden filters or anything weird)
+- Inspect and clean all fans (see manual, some also require maintenance like oiling)
 
 ### Dusting
 - Books
@@ -45,8 +46,7 @@ Will eventually turn this into a website or something. These generally not daily
 - Clean toilet tank
 - Clean shower curtain (wash if it's cloth)
 - Clean grout
-- Recaulk
-- Regrout
+- Reseal grout around bathtub/shower
 - Sanitize sink strainer, sink caddy, etc. 
 
 ## Bedroom
@@ -75,6 +75,9 @@ Will eventually turn this into a website or something. These generally not daily
 ## House specific
 - Test sump pumps
 
+## Basement
+- Check for leaks and standing water
+
 ## Thing specific
 
 ### Vacuum
@@ -91,6 +94,7 @@ Will eventually turn this into a website or something. These generally not daily
 - Clean inside of stove (depends on model)
 - Clean oven (see manual)
 - Clean any range hood filters (see manual)
+- Clean knobs (many can be removed for cleaning, see manual)
 
 ### HVAC (heating/cooling)
 - Change filter
@@ -114,6 +118,7 @@ Will eventually turn this into a website or something. These generally not daily
 ### Washer
 - Clean filter (see manual, usually only front loading)
 - Sanitizing wash (with bleach)
+- Clean water filter (not always present, usually used only in areas with hard water)
 
 ### Dryer
 - Clean out filter
