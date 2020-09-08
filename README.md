@@ -70,6 +70,10 @@ Will eventually turn this into a website or something. These generally not daily
 ## Yard
 (IDK I don't have one but feel free to make a suggestion)
 - Put away patio furniture for the winter
+- Disable exterior spigots / hose bibs in the winter
+
+## House specific
+- Test sump pumps
 
 ## Thing specific
 
