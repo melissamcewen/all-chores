@@ -42,6 +42,7 @@ Will eventually turn this into a website or something. These generally not daily
 - Clean grout
 - Recaulk
 - Regrout
+- Sanitize sink strainer, sink caddy, etc. 
 
 ## Bedroom
 - Change sheets
