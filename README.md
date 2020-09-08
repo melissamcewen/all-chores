@@ -119,6 +119,9 @@ Will eventually turn this into a website or something. These generally not daily
 - Clean filter
 - Replace filter
 
+### Fireplace
+- Inspection/chimney sweep
+
 ### All appliances that use water (coffee makers, humidifiers, cat water fountain etc.)
 - Descale (if you have hard water)
 - Clean (see manual) 
