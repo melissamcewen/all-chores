@@ -114,6 +114,7 @@ Will eventually turn this into a website or something. These generally not daily
 
 ### Dishwasher
 - Clean filter (see manual, not all have accessible filters)
+- Clean (use dishwasher cleaner or other similar product)
 - Deep clean inside and check for common issues (clogged sprayer, deteriorating gaskets, etc.)
 
 ### Washer
