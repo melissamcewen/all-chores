@@ -7,6 +7,7 @@ Will eventually turn this into a website or something. These generally not daily
 - Change smoke detector batteries
 - Change CO2 batteries
 - Inspect all fire ladders/escapes
+- Test GFCI outlets 
 
 ## Seasonal
 - Clean/put away all seasonal items (holiday related, warm blankets, etc.)
