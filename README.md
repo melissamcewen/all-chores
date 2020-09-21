@@ -73,6 +73,10 @@ Will eventually turn this into a website or something. These generally not daily
 - Put away patio furniture for the winter
 - Disable exterior spigots / hose bibs in the winter
 
+## Plants
+- Fertilize plants (depends on species, look up species for specific advice)
+- Rotate plants (depends on species, look up species for specific advice)
+
 ## House specific
 - Test sump pumps
 
@@ -96,6 +100,7 @@ Will eventually turn this into a website or something. These generally not daily
 - Clean oven (see manual)
 - Clean any range hood filters (see manual)
 - Clean knobs (many can be removed for cleaning, see manual)
+- Clean burners (many can be removed for cleaning, see manual)
 
 ### HVAC (heating/cooling)
 - Change filter
