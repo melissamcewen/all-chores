@@ -1,11 +1,11 @@
-# Home Horrors Volume 1
+# Home Horrors Volume 1: Home Comforts and its discontents
 
 Welcome subscribers! If you're confused about this newsletter, it came from something I [tweeted](https://twitter.com/melissamcewen/status/1302710467874430978
 ):
 
 > Writing a horror book called “Chores you didn’t know existed and were supposed to be doing all along“
 
-Later turned into a [long list of all chores](https://github.com/melissamcewen/all-chores) I could think of which I thought I'd turn into a website or app or something. 
+Later turned into a [long list of all chores](https://github.com/melissamcewen/all-chores) I could think of, which I thought I'd turn into a website or app or something. 
 
 Well that hasn't happened yet, though I've been thinking a lot about it. And about chores in general. Like many people, I'm spending more time than usual at home these days. Which means little things that normally wouldn't bother me have suddenly started to matter. 
 
@@ -37,4 +37,5 @@ After the fire chapter had a sleepless night thinking about the fact that our be
 
 
 
-* Disclaimer I use Amazon Affiliate links so if you buy something from Amazon after clicking, it helps support me.
+
+`* Disclaimer I use Amazon Affiliate links so if you buy something from Amazon after clicking, it helps support me.`
