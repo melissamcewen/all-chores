@@ -1,4 +1,7 @@
 # All Chores (ROUGH DRAFT)
+Moved: https://app.trybonsai.com/checklists/0E0FUnUXfp
+
+
 Will eventually turn this into a website or something (subscribe here for updates https://buttondown.email/home-horrors). These generally not daily chores (like running the dishwasher). I'd like to add how often to do them and make it sortable. 
 
 ## Safety
